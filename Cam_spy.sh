@@ -1,7 +1,7 @@
 #!/bin/bash
-# SayCheese v1.1
-# coded by: github.com/thelinuxchoice/saycheese
-# If you use any part from this code, giving me the credits. Read the Lincense!
+# SayCheese 
+
+
 
 trap 'printf "\n";stop' 2
 
